@@ -1,0 +1,122 @@
+﻿@model Cloud_Tickets.Models.Computer
+@{
+    ViewBag.Title = "HelpDesk";
+}
+@section featured {
+
+    <section class="featured">
+        <div class="content-wrapper">
+            @*<hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>*@
+     
+            <div id="indexform">
+                <div id="leftcolumn">
+                    <p class="table-title">Detalhes do Utilizador</p>
+                    @*@using (Ajax.BeginForm("Save", "Home", new AjaxOptions{
+                UpdateTargetId = "result",
+                HttpMethod = "post",
+                InsertionMode = InsertionMode.Replace
+            }, new { id = "ajaxform" }))
+
+            {*@
+
+                    @using (Html.BeginForm())
+                    {
+                        <table class="table-user">
+                            <tr>
+                                <th>Username</th>
+                                <td>@Html.TextBoxFor(model => model.User, new { disabled = "disabled", @Value = (string)@ViewBag.Username }) </td>
+                            </tr>
+                            <tr>
+                                <th>PC / IP :: Local</th>
+                                <td>@Html.TextBoxFor(model => model.Host, new { disabled = "disabled", @Value = (string)@ViewBag.Hostname }) / @Html.TextBoxFor(model => model.IP, new { disabled = "disabled", @Value = (string)@ViewBag.IP }) ::  @Html.TextBoxFor(model => model.Location, new { disabled = "disabled", @Value = (string)@ViewBag.Location })</td>
+
+                            </tr>
+                            <tr>
+                                <th>Data/Hora</th>
+                                <td>@Html.TextBoxFor(model => model.Date, new { disabled = "disabled", @Value = @ViewBag.Date })</td>
+                            </tr>
+                        </table>
+                        <p></p>
+                        <fieldset>
+                            <legend>Assistência Técnica</legend>
+                            <table>
+                                <tr>
+                                    <th>@Html.RadioButtonFor(model => model.Report, "IN")</th>
+                                    <td>Reportar um Problema</td>
+                                </tr>
+                                <tr>
+                                    <th>@Html.RadioButtonFor(model => model.Report, "CH", new { required = "required" })</th>
+                                    <td>Solicitar Alteração/Criação</td>
+                                </tr>
+                            </table>
+                        </fieldset>
+
+
+                        //Reportar um Problema
+
+                        //Solicitar Alteração/Criação
+                        <p class="table-title">Descrição</p>
+                        @Html.TextAreaFor(model => model.Description, new { cols = "20", rows = "4", maxlength = "150", required = "required" })
+                        <br />
+                        <button type="submit" id="SaveTicket" class="btnsend">ENVIAR</button>
+                        <p></p>
+
+
+
+                    }
+                </div>
+               <!-- <div id="rightcolumn">
+                    <p class="table-title">Notificações</p>
+                    <div>
+                        @ViewBag.Notifications
+                    </div>
+                </div>
+                <div class"clear"></div>-->
+
+            </div>
+            <div id="Ticketsabertos">
+                <p class="table-title">Tickets Abertos</p>
+
+            </div>
+            <div id="Ticketsfechados">
+                <p class="table-title">Tickets Fechados</p>
+
+            </div>
+            <div id="result">
+
+            </div>
+            
+            <div id="AdminMenu">
+
+                <div id="AdminTickets">
+                    <p class="table-title">Tickets Abertos</p>
+                    <div id="Adminresult">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    </section>
+}
+
+
+@*<h3>REPORTAR</h3>
+<ol class="round">
+    @*<li class="one">
+    <li>
+        <h3><a href="#">Reportar um Problema</a></h3>
+    </li> 
+    @*</li>
+
+    @*<li class="two">
+    <li>
+        <h3><a href="#">Solicitar uma Alteração/Criação</a></h3>
+
+        @*</li>
+    </li> 
+
+</ol>*@

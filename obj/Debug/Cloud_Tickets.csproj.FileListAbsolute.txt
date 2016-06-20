@@ -1,0 +1,121 @@
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Cloud_Tickets.dll.config
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Cloud_Tickets.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Cloud_Tickets.pdb
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Antlr3.Runtime.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\EntityFramework.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Microsoft.Data.Edm.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Microsoft.Data.OData.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Newtonsoft.Json.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Net.Http.Formatting.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Spatial.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Helpers.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Http.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Http.OData.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Http.WebHost.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Mvc.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Optimization.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Razor.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.WebPages.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.WebPages.Razor.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\WebGrease.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\EntityFramework.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Newtonsoft.Json.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Net.Http.Formatting.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Helpers.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Http.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Http.WebHost.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Mvc.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Razor.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.WebPages.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.WebPages.Razor.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Web.Http.OData.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Microsoft.Data.Edm.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\Microsoft.Data.OData.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\System.Spatial.xml
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\de\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\es\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\fr\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\it\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\ja\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\ko\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\ru\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\obj\Debug\Cloud_Tickets.dll
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\obj\Debug\Cloud_Tickets.pdb
+C:\Users\fabio.ferreira\Source\Workspaces\CloudTickets\Cloud Tickets\Cloud Tickets\obj\Debug\Cloud_Tickets.csprojResolveAssemblyReference.cache
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\Cloud_Tickets.dll.config
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\Cloud_Tickets.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\Cloud_Tickets.pdb
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.Helpers.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.Razor.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.WebPages.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.WebPages.Razor.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\EntityFramework.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\Newtonsoft.Json.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.Helpers.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.Mvc.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.Razor.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.WebPages.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.WebPages.Razor.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Web.Http.OData.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\Microsoft.Data.Edm.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\Microsoft.Data.OData.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\System.Spatial.xml
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\de\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\es\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\fr\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\it\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\ja\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\ko\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\ru\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\obj\Debug\Cloud_Tickets.csprojResolveAssemblyReference.cache
+C:\Users\fabio.ferreira\Source\HelpDesk\obj\Debug\Cloud_Tickets.dll
+C:\Users\fabio.ferreira\Source\HelpDesk\obj\Debug\Cloud_Tickets.pdb
+C:\Users\fabio.ferreira\Source\HelpDesk\bin\Newtonsoft.Json.dll
