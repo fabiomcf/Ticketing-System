@@ -5,7 +5,7 @@
 - Detect hostname
 - Detect user location(Locations should be defined according subnet mask at file Models\computer.cs) 
 
->"private string GetLocation() 
+>private string GetLocation() 
 > { 
 >  string loc; switch (_octet) 
 >  { 
@@ -20,11 +20,13 @@
 >    default: loc = ""; break; 
 >  } 
 >  return loc; 
->}"
+>}
 
 **2 options to report a ticket**
 - IN (incident) - report a problem
 - CH (change) - report a change or installation
+
+
 **2 types of users, Admin and non-admin Admin can see all reported tickets and send message to the user non-admin can see their opened tickets**
 
 Everytime someone create a ticket, Admin's receive an e-mail These Admin e-mails can be configured
