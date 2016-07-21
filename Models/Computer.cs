@@ -586,14 +586,14 @@ namespace Cloud_Tickets.Models
                   MailMessage mail = new MailMessage();
                   SmtpClient smtpServer = new SmtpClient("smtp.gmail.com");
                   smtpServer.UseDefaultCredentials = false;
-                  smtpServer.Credentials = new System.Net.NetworkCredential("informatica@jf-parquedasnacoes.pt", "2BnUb>WB");
+                  smtpServer.Credentials = new System.Net.NetworkCredential("sender@domain.com", "password");
                   smtpServer.EnableSsl = true;
                   smtpServer.Port = 587; // Gmail works on this ports
                   smtpServer.DeliveryMethod = SmtpDeliveryMethod.Network;
-                  mail.From = new MailAddress("informatica@jf-parquedasnacoes.pt");
-                  mail.To.Add("fabio.ferreira@jf-parquedasnacoes.pt");
-                  mail.To.Add("pedromorais007@gmail.com");
-                  mail.To.Add(usr + "@jf-parquedasnacoes.pt");
+                  mail.From = new MailAddress("sender@domian.com");
+                  mail.To.Add("destination@domian.com");
+                  mail.To.Add("destination@domian.com");
+                  mail.To.Add(usr + "@domain.com");
                   mail.IsBodyHtml = true;
                   mail.Subject = in_ch + " - " + ID_ + " - Ticket Fechado";
                   var Body_ = "Exmo(a) Srº(ª),<br/>" +
